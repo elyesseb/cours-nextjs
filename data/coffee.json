@@ -1,0 +1,117 @@
+{
+  "coffee": [
+    {
+      "name": "all",
+      "data": [
+        {
+          "id": 1,
+          "name": "café en grain ethiopie - moka lekempti",
+          "price": "4,95",
+          "img": "https://cafe.cafes-pfaff.com/mediatheque/min/ethiopie-moka-lekempti-kombawa-g4-compresse.jpg",
+          "score": "80/100"
+        },
+        {
+          "id": 2,
+          "name": "café en grain congo - makala",
+          "price": "5,20",
+          "img": "https://cafe.cafes-pfaff.com/mediatheque/min/congo_makala.jpg",
+          "score": "83/100"
+        },
+        {
+          "id": 3,
+          "name": "café en grain bresil - cerrado panthera",
+          "price": "5,30",
+          "img": "https://cafe.cafes-pfaff.com/mediatheque/min/2022-03-10_bresil-panthera.jpg",
+          "score": "80/100"
+        },
+        {
+          "id": 4,
+          "name": "café en grain honduras - chikita",
+          "price": "5,60",
+          "img": "https://cafe.cafes-pfaff.com/mediatheque/min/honduras_chikita.jpg",
+          "score": "83/100"
+        },
+        {
+          "id": 5,
+          "name": "café en grain colombie - san cristobal",
+          "price": "5,90",
+          "img": "https://cafe.cafes-pfaff.com/mediatheque/img/colombie-cristobal-terroir-du-quindo.png",
+          "score": "83/100"
+        },
+        {
+          "id": 6,
+          "name": "café en grain inde - karnataka",
+          "price": "6,10",
+          "img": "https://cafe.cafes-pfaff.com/mediatheque/min/2019-07-22_inde_karnataka-compresse.jpg",
+          "score": "80/100"
+        },
+        {
+          "id": 7,
+          "name": "café en grain bio mexique - santa fé",
+          "price": "6,95",
+          "img": "https://cafe.cafes-pfaff.com/mediatheque/min/2022-03-09_mexique-bio---santa-fe.jpg",
+          "score": "80/100"
+        },
+        {
+          "id": 8,
+          "name": "café en grain kenya - massaï kiambu",
+          "price": "6,90",
+          "img": "https://cafe.cafes-pfaff.com/mediatheque/min/kenya-massai-kiambu.jpg",
+          "score": "83/100"
+        },
+        {
+          "id": 9,
+          "name": "café en grain bio perou - san ignacio",
+          "price": "7,30",
+          "img": "https://cafe.cafes-pfaff.com/mediatheque/min/perou-san-ignacio-nouveau.jpg",
+          "score": "82/100"
+        },
+        {
+          "id": 10,
+          "name": "café en grain bio indonésie - shere khan",
+          "price": "8,90",
+          "img": "https://cafe.cafes-pfaff.com/mediatheque/min/indonesie-shere-khan.jpg",
+          "score": "83/100"
+        }
+      ]
+    },
+    {
+      "name": "bio",
+      "data": [
+        {
+          "id": 7,
+          "name": "café en grain bio mexique - santa fé",
+          "price": "6,95",
+          "img": "https://cafe.cafes-pfaff.com/mediatheque/min/2022-03-09_mexique-bio---santa-fe.jpg",
+          "score": "80/100"
+        },
+        {
+          "id": 9,
+          "name": "café en grain bio perou - san ignacio",
+          "price": "7,30",
+          "img": "https://cafe.cafes-pfaff.com/mediatheque/min/perou-san-ignacio-nouveau.jpg",
+          "score": "82/100"
+        },
+        {
+          "id": 10,
+          "name": "café en grain bio indonésie - shere khan",
+          "price": "8,90",
+          "img": "https://cafe.cafes-pfaff.com/mediatheque/min/indonesie-shere-khan.jpg",
+          "score": "83/100"
+        }
+      ]
+    },
+    {
+      "name": "terroir",
+      "data": [
+        {
+          "id": 6,
+          "name": "café en grain inde - karnataka",
+          "price": "6,10",
+          "img": "https://cafe.cafes-pfaff.com/mediatheque/min/2019-07-22_inde_karnataka-compresse.jpg",
+          "score": "80/100"
+        }
+      ]
+    }
+  ]
+}
